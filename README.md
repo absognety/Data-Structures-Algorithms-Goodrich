@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms-Goodrich
+### Data-Structures-Algorithms-Goodrich
 Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
 
 + All the solutions are presented in jupyter notebooks
