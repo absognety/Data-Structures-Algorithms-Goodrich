@@ -13,7 +13,7 @@ class Fibonacci_Series(Progression):
         """
         super().__init__(first) # start progression at first
         self._prev = second-first # fictitious value preceding the first
-        self._series = [self._current,self._prev]
+        self._series = []
         
     def advance(self):
             """
@@ -23,7 +23,7 @@ class Fibonacci_Series(Progression):
             self._series.append(self._current)
                     
     def __getitem__(self):
-            return (self._series)
+            return ([0] + self._series)
         
         
 #Code Fragment 2.11: A class that produces a Fibonacci progression.
