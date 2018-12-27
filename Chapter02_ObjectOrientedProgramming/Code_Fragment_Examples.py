@@ -2,7 +2,7 @@ class CreditCard():
     
     """A Consumer Credit Card"""
     
-    def __init__(self,customer,bank,acnt,limit):
+    def __init__(self,customer,bank,acct,limit):
         """
         Create a new Credit Card Instance
         
@@ -15,7 +15,7 @@ class CreditCard():
         """
         self._customer = customer
         self._bank = bank
-        self._account = acnt
+        self._account = acct
         self._limit = limit
         self._balance = 0
          
@@ -98,15 +98,3 @@ if __name__ == '__main__' :
             wallet[c].make_payment(100)
             print('New balance = ', wallet[c].get_balance())
         print()
-
-
-
-
-
-
-
-
-
-
-
-
