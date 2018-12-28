@@ -16,14 +16,14 @@ class Fibonacci_Series(Progression):
         self._series = []
         
     def advance(self):
-            """
-            Update current value by taking sum of previous two.
-            """
-            self._prev, self._current = self._current, self._prev + self._current
-            self._series.append(self._current)
+        """
+        Update current value by taking sum of previous two.
+        """
+        self._prev, self._current = self._current, self._prev + self._current
+        self._series.append(self._current)
                     
     def __getitem__(self):
-            return ([0] + self._series)
+        return ([0] + self._series)
         
         
 #Code Fragment 2.11: A class that produces a Fibonacci progression.
