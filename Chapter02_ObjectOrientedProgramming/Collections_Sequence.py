@@ -22,7 +22,7 @@ class Sequence(metaclass=ABCMeta):
         for j in range(len(self)):
             if self[j]==val:
                 return True
-            return False
+        return False
         
     def index(self,val):
         """
