@@ -19,5 +19,6 @@ class ArithmeticProgression(Progression): #inherit the progression
         Update current value by adding the fixed increment.
         """
         self._current += self._increment
+        return (self._current)
 
 #Code Fragment 2.9: A class that produces an arithmetic progression
