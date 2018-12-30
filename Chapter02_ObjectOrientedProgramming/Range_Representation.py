@@ -32,5 +32,3 @@ class Range():
             
         return (self._start+(k*self._step))
       
-       
-       
