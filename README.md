@@ -102,7 +102,25 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
    
    
 + Chapter - 5: Array Based Sequences
+  - Python's Sequence Types
+  - Low-Level Arrays
+       1. Referential Arrays
+       2. Compact Arrays in Python
+  - Dynamic Arrays and Amortization
+       1. Implementing a Dynamic Array
+       2. Amortized Analysis of Dynamic Arrays
+       3. Python's List Class
+  - Efficiency Of Python's Sequence Types
+       1. Python’s List and Tuple Classes
+       2. Python’s String Class
+  - Using Array-Based Sequences
+       1. Storing High Scores for a Game
+       2. Sorting a Sequence
+       3. Simple Cryptography
+  - Multidimensional Data Sets
+  - Exercises
 + Chapter - 6: Stacks Queues and Deques
+
 + Chapter - 7: Linked Lists
 + Chapter - 8: Trees
 + Chapter - 9: Priority Queues
