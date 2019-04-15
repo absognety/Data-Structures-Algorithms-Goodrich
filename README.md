@@ -3,6 +3,7 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
 
 + All the solutions are presented in jupyter notebooks (.py extensions are also added)
 + All algorithms, that are covered in Goodrich book are implemented in this Git repo.
++ You can download the book [here](https://github.com/absognety/Technology-Books/blob/master/Reference%20Books/Python/Data%20Structures%20and%20Algorithms%20in%20Python%20%5BGoodrich%2C%20Tamassia%20%26%20Goldwasser%202013-03-18%5D.pdf)
 
 #### Contents
 
