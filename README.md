@@ -281,7 +281,27 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   - Exercises  
    
    
-+ Chapter - 13: Text Processing
++ Chapter - 13: Text Processing  
+  - Abundance of Digitized Text  
+       1. Notations for Strings and the Python str Class  
+  - Pattern-Matching Algorithms  
+       1. Brute Force  
+       2. The Boyer-Moore Algorithm  
+       3. The Knuth-Morris-Pratt Algorithm  
+  - Dynamic Programming  
+       1. Matrix Chain-Product  
+       2. DNA and Text Sequence Alignment  
+  - Text Compression and the Greedy Method  
+       1. The Huffman Coding Algorithm  
+       2. The GreedyMethod  
+  - Tries  
+       1. Standard Tries  
+       2. Compressed Tries  
+       3. Suffix Tries  
+       4. Search Engine Indexing  
+  - Exercises  
+   
+   
 + Chapter - 14: Graph Algorithms
 + Chapter - 15: Memory Management and B-Trees
 
