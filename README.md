@@ -328,5 +328,17 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   - Exercises  
    
    
-+ Chapter - 15: Memory Management and B-Trees
-
++ Chapter - 15: Memory Management and B-Trees  
+  - Memory Management  
+       1. Memory Allocation  
+       2. Garbage Collection  
+       3. Additional Memory Used by the Python Interpreter  
+  - Memory Hierarchies and Caching  
+       1. Memory Systems  
+       2. Caching Strategies  
+  - External Searching and B-Trees  
+       1. (a,b) Trees  
+       2. B-Trees  
+  - External-Memory Sorting  
+       1. MultiwayMerging  
+  - Exercises  
