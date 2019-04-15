@@ -96,48 +96,68 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
        1. Linear Recursion  
        2. Binary Recursion  
        3. Multiple Recursion  
-  - Designing Recursive Algorithms
-  - Eliminating Tail Recursion
-  - Exercises
+  - Designing Recursive Algorithms  
+  - Eliminating Tail Recursion  
+  - Exercises  
    
    
-+ Chapter - 5: Array Based Sequences 
-  - Python's Sequence Types 
-  - Low-Level Arrays 
-       1. Referential Arrays 
-       2. Compact Arrays in Python 
-  - Dynamic Arrays and Amortization 
-       1. Implementing a Dynamic Array
-       2. Amortized Analysis of Dynamic Arrays
-       3. Python's List Class
-  - Efficiency Of Python's Sequence Types
-       1. Python’s List and Tuple Classes
-       2. Python’s String Class
-  - Using Array-Based Sequences
-       1. Storing High Scores for a Game
-       2. Sorting a Sequence
-       3. Simple Cryptography
-  - Multidimensional Data Sets
-  - Exercises
++ Chapter - 5: Array Based Sequences  
+  - Python's Sequence Types  
+  - Low-Level Arrays  
+       1. Referential Arrays  
+       2. Compact Arrays in Python  
+  - Dynamic Arrays and Amortization  
+       1. Implementing a Dynamic Array  
+       2. Amortized Analysis of Dynamic Arrays  
+       3. Python's List Class  
+  - Efficiency Of Python's Sequence Types  
+       1. Python’s List and Tuple Classes  
+       2. Python’s String Class  
+  - Using Array-Based Sequences  
+       1. Storing High Scores for a Game  
+       2. Sorting a Sequence  
+       3. Simple Cryptography  
+  - Multidimensional Data Sets  
+  - Exercises  
   
   
-+ Chapter - 6: Stacks Queues and Deques
-  - Stacks
-       1. The Stack Abstract Data Type
-       2. Simple Array-Based Stack Implementation
-       3. Reversing Data Using a Stack
-       4. Matching Parenthesis and HTML Tags
-  - Queues
-       1. The Queue Abstract Data Type
-       2. Array-Based Queue Implementation
-  - Double-Ended Queues
-       1. The Deque Abstract Data Type
-       2. Implementing a Deque with a Circular Array
-       3. Deques in the Python CollectionsModule
++ Chapter - 6: Stacks Queues and Deques  
+  - Stacks  
+       1. The Stack Abstract Data Type  
+       2. Simple Array-Based Stack Implementation  
+       3. Reversing Data Using a Stack  
+       4. Matching Parenthesis and HTML Tags  
+  - Queues  
+       1. The Queue Abstract Data Type  
+       2. Array-Based Queue Implementation  
+  - Double-Ended Queues  
+       1. The Deque Abstract Data Type  
+       2. Implementing a Deque with a Circular Array  
+       3. Deques in the Python CollectionsModule  
+  - Exercises  
+  
+
++ Chapter - 7: Linked Lists  
+  - Singly Linked Lists
+       1. Implementing a Stack with a Singly Linked List
+       2. Implementing a Queue with a Singly Linked List
+  - Circularly Linked Lists
+       1. Round-Robin Schedulers
+       2. Implementing a Queue with a Circularly Linked List
+  - Doubly Linked Lists
+       1. Basic Implementation of a Doubly Linked List
+       2. Implementing a Deque with a Doubly Linked List
+  - The Positional List ADT
+       1. The Positional List Abstract Data Type
+       2. Doubly Linked List Implementation
+  - Sorting a Positional List
+  - Case Study: Maintaining Access Frequencies
+       1. Using a Sorted List
+       2. Using a List with theMove-to-Front Heuristic
+  - Link-Based vs. Array-Based Sequences
   - Exercises
   
 
-+ Chapter - 7: Linked Lists
 + Chapter - 8: Trees
 + Chapter - 9: Priority Queues
 + Chapter - 10: Maps, Hash Tables and Skip Lists
