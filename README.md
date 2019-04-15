@@ -138,50 +138,74 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   
   
 + Chapter - 7: Linked Lists  
-  - Singly Linked Lists
-       1. Implementing a Stack with a Singly Linked List
-       2. Implementing a Queue with a Singly Linked List
-  - Circularly Linked Lists
-       1. Round-Robin Schedulers
-       2. Implementing a Queue with a Circularly Linked List
-  - Doubly Linked Lists
-       1. Basic Implementation of a Doubly Linked List
-       2. Implementing a Deque with a Doubly Linked List
-  - The Positional List ADT
-       1. The Positional List Abstract Data Type
-       2. Doubly Linked List Implementation
-  - Sorting a Positional List
-  - Case Study: Maintaining Access Frequencies
-       1. Using a Sorted List
-       2. Using a List with theMove-to-Front Heuristic
-  - Link-Based vs. Array-Based Sequences
-  - Exercises
+  - Singly Linked Lists  
+       1. Implementing a Stack with a Singly Linked List  
+       2. Implementing a Queue with a Singly Linked List  
+  - Circularly Linked Lists  
+       1. Round-Robin Schedulers  
+       2. Implementing a Queue with a Circularly Linked List  
+  - Doubly Linked Lists  
+       1. Basic Implementation of a Doubly Linked List  
+       2. Implementing a Deque with a Doubly Linked List  
+  - The Positional List ADT  
+       1. The Positional List Abstract Data Type  
+       2. Doubly Linked List Implementation  
+  - Sorting a Positional List  
+  - Case Study: Maintaining Access Frequencies  
+       1. Using a Sorted List  
+       2. Using a List with theMove-to-Front Heuristic  
+  - Link-Based vs. Array-Based Sequences  
+  - Exercises  
     
   
-+ Chapter - 8: Trees
-  - General Trees
-       1. Tree Definitions and Properties
-       2. The Tree Abstract Data Type
-       3. Computing Depth and Height
-  - Binary Trees
-       1. The Binary Tree Abstract Data Type
-       2. Properties of Binary Trees
-  - Implementing Trees
-       1. Linked Structure for Binary Trees
-       2. Array-Based Representation of a Binary Tree
-       3. Linked Structure for General Trees
-  - Tree Traversal Algorithms
-       1. Preorder and Postorder Traversals of General Trees
-       2. Breadth-First Tree Traversal
-       3. Inorder Traversal of a Binary Tree
-       4. Implementing Tree Traversals in Python
-       5. Applications of Tree Traversals
-       6. Euler Tours and the Template Method Pattern
-  - Case Study: An Expression Tree
-  - Exercises
-    
-    
-+ Chapter - 9: Priority Queues
++ Chapter - 8: Trees  
+  - General Trees  
+       1. Tree Definitions and Properties  
+       2. The Tree Abstract Data Type  
+       3. Computing Depth and Height  
+  - Binary Trees  
+       1. The Binary Tree Abstract Data Type  
+       2. Properties of Binary Trees  
+  - Implementing Trees  
+       1. Linked Structure for Binary Trees  
+       2. Array-Based Representation of a Binary Tree  
+       3. Linked Structure for General Trees  
+  - Tree Traversal Algorithms  
+       1. Preorder and Postorder Traversals of General Trees  
+       2. Breadth-First Tree Traversal  
+       3. Inorder Traversal of a Binary Tree  
+       4. Implementing Tree Traversals in Python  
+       5. Applications of Tree Traversals  
+       6. Euler Tours and the Template Method Pattern  
+  - Case Study: An Expression Tree  
+  - Exercises  
+      
+      
++ Chapter - 9: Priority Queues  
+  - The Priority Queue Abstract Data Type  
+       1. Priorities  
+       2. The Priority Queue ADT  
+  - Implementing a Priority Queue  
+       1. The Composition Design Pattern  
+       2. Implementation with an Unsorted List  
+       3. Implementation with a Sorted List  
+  - Heaps  
+       1. The Heap Data Structure  
+       2. Implementing a Priority Queue with a Heap  
+       3. Array-Based Representation of a Complete Binary Tree  
+       4. Python Heap Implementation  
+       5. Analysis of a Heap-Based Priority Queue  
+       6. Bottom-Up Heap Construction  
+       7. Python’s heapq Module  
+  - Sorting with a Priority Queue  
+       1. Selection-Sort and Insertion-Sort  
+       2. Heap-Sort  
+  - Adaptable Priority Queues  
+       1. Locators  
+       2. Implementing an Adaptable Priority Queue  
+  - Exercises  
+      
+      
 + Chapter - 10: Maps, Hash Tables and Skip Lists
 + Chapter - 11: Search Trees
 + Chapter - 12: Sorting and Selection
