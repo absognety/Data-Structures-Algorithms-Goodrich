@@ -231,7 +231,32 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   - Exercises  
    
    
-+ Chapter - 11: Search Trees
++ Chapter - 11: Search Trees  
+  - Binary Search Trees  
+       1. Navigating a Binary Search Tree  
+       2. Searches  
+       3. Insertions and Deletions  
+       4. Python Implementation  
+       5. Performance of a Binary Search Tree  
+  - Balanced Search Trees  
+       1. Python Framework for Balancing Search Trees  
+  - AVL Trees  
+       1. Update Operations  
+       2. Python Implementation  
+  - Splay Trees  
+       1. Splaying  
+       2. When to Splay  
+       3. Python Implementation  
+       4. Amortized Analysis of Splaying  
+  - (2,4) Trees  
+       1. Multiway Search Trees  
+       2. (2,4)-Tree Operations  
+  - Red-Black Trees  
+       1. Red-Black Tree Operations  
+       2. Python Implementation  
+  - Exercises
+   
+   
 + Chapter - 12: Sorting and Selection
 + Chapter - 13: Text Processing
 + Chapter - 14: Graph Algorithms
