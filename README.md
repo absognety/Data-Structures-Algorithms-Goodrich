@@ -254,10 +254,33 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   - Red-Black Trees  
        1. Red-Black Tree Operations  
        2. Python Implementation  
-  - Exercises
+  - Exercises  
    
    
-+ Chapter - 12: Sorting and Selection
++ Chapter - 12: Sorting and Selection  
+  - Why Study Sorting Algorithms?  
+       1. Merge-Sort  
+       2. Divide-and-Conquer  
+       3. Array-Based Implementation ofMerge-Sort  
+       4. The Running Time of Merge-Sort  
+       5. Merge-Sort and Recurrence Equations  
+       6. Alternative Implementations ofMerge-Sort  
+  - Quick-Sort  
+       1. Randomized Quick-Sort  
+       2. Additional Optimizations for Quick-Sort  
+  - Studying Sorting through an Algorithmic Lens  
+       1. Lower Bound for Sorting  
+       2. Linear-Time Sorting: Bucket-Sort and Radix-Sort  
+  - Comparing Sorting Algorithms  
+  - Python’s Built-In Sorting Functions  
+       1. Sorting According to a Key Function  
+  - Selection  
+       1. Prune-and-Search  
+       2. Randomized Quick-Select  
+       3. Analyzing Randomized Quick-Select  
+  - Exercises  
+   
+   
 + Chapter - 13: Text Processing
 + Chapter - 14: Graph Algorithms
 + Chapter - 15: Memory Management and B-Trees
