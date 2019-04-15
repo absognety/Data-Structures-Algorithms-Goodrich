@@ -302,6 +302,31 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   - Exercises  
    
    
-+ Chapter - 14: Graph Algorithms
++ Chapter - 14: Graph Algorithms  
+  - Graphs  
+       1. The Graph ADT  
+  - Data Structures for Graphs  
+       1. Edge List Structure  
+       2. Adjacency List Structure  
+       3. Adjacency Map Structure  
+       4. AdjacencyMatrix Structure  
+       5. Python Implementation  
+  - Graph Traversals  
+       1. Depth-First Search  
+       2. DFS Implementation and Extensions  
+       3. Breadth-First Search  
+  - Transitive Closure  
+  - Directed Acyclic Graphs  
+       1. Topological Ordering  
+  - Shortest Paths  
+       1. Weighted Graphs  
+       2. Dijkstra’s Algorithm  
+  - Minimum Spanning Trees  
+       1. Prim-Jarn´ık Algorithm  
+       2. Kruskal’s Algorithm  
+       3. Disjoint Partitions and Union-Find Structures  
+  - Exercises  
+   
+   
 + Chapter - 15: Memory Management and B-Trees
 
