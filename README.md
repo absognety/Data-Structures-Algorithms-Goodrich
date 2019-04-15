@@ -206,7 +206,31 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   - Exercises  
       
       
-+ Chapter - 10: Maps, Hash Tables and Skip Lists
++ Chapter - 10: Maps, Hash Tables and Skip Lists  
+  - Maps and Dictionaries  
+       1. The Map ADT  
+       2. Application: CountingWord Frequencies  
+       3. Python’s MutableMapping Abstract Base Class  
+       4. Our MapBase Class  
+       5. Simple UnsortedMap Implementation  
+  - Hash Tables  
+       1. Hash Functions  
+       2. Collision-Handling Schemes  
+       3. Load Factors, Rehashing, and Efficiency  
+       4. Python Hash Table Implementation  
+  - Sorted Maps  
+       1. Sorted Search Tables  
+       2. Two Applications of SortedMaps  
+  - Skip Lists  
+       1. Search and Update Operations in a Skip List  
+       2. Probabilistic Analysis of Skip Lists  
+  - Sets, Multisets, and Multimaps  
+       1. The Set ADT  
+       2. Python’s MutableSet Abstract Base Class  
+       3. Implementing Sets,Multisets, andMultimaps  
+  - Exercises  
+   
+   
 + Chapter - 11: Search Trees
 + Chapter - 12: Sorting and Selection
 + Chapter - 13: Text Processing
