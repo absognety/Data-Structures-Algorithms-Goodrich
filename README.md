@@ -122,6 +122,21 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   
   
 + Chapter - 6: Stacks Queues and Deques
+  - Stacks
+       1. The Stack Abstract Data Type
+       2. Simple Array-Based Stack Implementation
+       3. Reversing Data Using a Stack
+       4. Matching Parenthesis and HTML Tags
+  - Queues
+       1. The Queue Abstract Data Type
+       2. Array-Based Queue Implementation
+  - Double-Ended Queues
+       1. The Deque Abstract Data Type
+       2. Implementing a Deque with a Circular Array
+       3. Deques in the Python CollectionsModule
+  - Exercises
+  
+
 + Chapter - 7: Linked Lists
 + Chapter - 8: Trees
 + Chapter - 9: Priority Queues
