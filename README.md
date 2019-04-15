@@ -136,7 +136,7 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
        3. Deques in the Python CollectionsModule  
   - Exercises  
   
-
+  
 + Chapter - 7: Linked Lists  
   - Singly Linked Lists
        1. Implementing a Stack with a Singly Linked List
@@ -156,9 +156,31 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
        2. Using a List with theMove-to-Front Heuristic
   - Link-Based vs. Array-Based Sequences
   - Exercises
+    
   
-
 + Chapter - 8: Trees
+  - General Trees
+       1. Tree Definitions and Properties
+       2. The Tree Abstract Data Type
+       3. Computing Depth and Height
+  - Binary Trees
+       1. The Binary Tree Abstract Data Type
+       2. Properties of Binary Trees
+  - Implementing Trees
+       1. Linked Structure for Binary Trees
+       2. Array-Based Representation of a Binary Tree
+       3. Linked Structure for General Trees
+  - Tree Traversal Algorithms
+       1. Preorder and Postorder Traversals of General Trees
+       2. Breadth-First Tree Traversal
+       3. Inorder Traversal of a Binary Tree
+       4. Implementing Tree Traversals in Python
+       5. Applications of Tree Traversals
+       6. Euler Tours and the Template Method Pattern
+  - Case Study: An Expression Tree
+  - Exercises
+    
+    
 + Chapter - 9: Priority Queues
 + Chapter - 10: Maps, Hash Tables and Skip Lists
 + Chapter - 11: Search Trees
