@@ -228,7 +228,7 @@ Exercises For the Data Structures and Algorithms in Python by Goodrich, Tamassia
   - Sets, Multisets, and Multimaps  
        1. The Set ADT  
        2. Python’s MutableSet Abstract Base Class  
-       3. Implementing Sets,Multisets, andMultimaps  
+       3. Implementing Sets,Multisets, and Multimaps  
   - Exercises  
    
    
